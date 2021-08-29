@@ -1,6 +1,6 @@
 cmake_minimum_required( VERSION 3.10)
 
-project(my_lib)
+PROJECT(my_lib)
 
 add_library(my_lib
     src/my_lib.cpp
